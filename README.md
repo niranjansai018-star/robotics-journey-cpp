@@ -1,1 +1,1 @@
-# Robotics Journey C++ (Stage 1)
+# ROBOTICS C++ (Stage 1)
